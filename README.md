@@ -1,16 +1,14 @@
 ### Hi! 👋
 
-I'm William Forte, a high school engineering student based in New Jersey, USA.
+I'm William Forte, a mechanical engineering student based in New Jersey, USA.
 
-What you can expect to see on my GitHub is a product of my current interests:
+What you can expect to see here GitHub is a product of my current interests:
 
-- Mechanical Engineering
-- Robotics
 - 3D Printing
+- Robotic Simulation
+- Control
 - Web Development
 
-I am currently conducting research in robotic design, simulation, and control.
+I am currently a robotics research intern.
 
-My old GitHub account is [@willpotato](https://github.com/willpotato).
-
-My website (work in progress) is [GTWeb](https://gtweb.vercel.app/) (private repository).
+My website (work in progress) is at [GTWeb](https://gtweb.vercel.app/).
