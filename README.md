@@ -11,4 +11,4 @@ What you can expect to see here GitHub is a product of my current interests:
 
 I am currently a robotics research intern.
 
-My website (work in progress) is at [GTWeb](https://gtweb.vercel.app/).
+My website (work in progress) is [willcforte.com](https://willcforte.com).
