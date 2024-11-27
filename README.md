@@ -1,14 +1,14 @@
 ### Hi! 👋
 
-I'm William Forte, a mechanical engineering student based in New Jersey, USA.
+I'm Will Forte, a robotics researcher and mechanical engineering student at Rutgers University.
 
-What you can expect to see here GitHub is a product of my current interests:
+### Check out my robotics projects at [willcforte.com](https://willcforte.com)!
 
-- 3D Printing
-- Robotic Simulation
-- Control
-- Web Development
+My interests:
+* Legged locomotion
+* UAVs
+* Simulation
+* Controls
+* 3D printing
 
-I am currently a robotics research intern.
-
-My website (work in progress) is [willcforte.com](https://willcforte.com).
+I am currently a member of the Robotics, Automation, & Mechatronics Lab under Prof. Jingang Yi.
